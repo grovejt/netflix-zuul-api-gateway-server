@@ -1,4 +1,4 @@
-package com.grove.microservices;
+package com.grove.microservices.netflixzuulapigatewayserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
